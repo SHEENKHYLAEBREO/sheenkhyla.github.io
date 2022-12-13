@@ -73,7 +73,7 @@ header{
     flex-flow: column;
     padding: 8rem 2rem;
     width: 32rem;
-    background-image: url(bg1.jpg);
+    background-image: url(img/bg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position:fixed;
